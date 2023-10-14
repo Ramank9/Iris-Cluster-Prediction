@@ -28,7 +28,7 @@ The Iris dataset contains information about three species of iris flowers with f
 
 ## Dataset
 
-The Iris dataset used in this project is available at [this link](https://bit.ly/3kxTdox).
+The Iris dataset used in this project is available at [this link](https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view).
 
 
 ---
